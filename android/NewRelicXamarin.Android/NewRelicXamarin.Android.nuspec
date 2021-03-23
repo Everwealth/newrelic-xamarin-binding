@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NewRelicXamarin.Android</id>
+    <version>1.0.0</version>
+    <title>NewRelicXamarin.Android</title>
+    <authors>New Relic</authors>
+    <owners>New Relic</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/Everwealth/newrelic-xamarin-binding</projectUrl>
+    <description>Xamarin bindings for the Android version of the New Relic Mobile agent/SDK</description>
+    <summary>New Relic SDK for Xamarin.Android</summary>
+    <copyright></copyright>
+    <language></language>
+    <tags>newrelic new relic xamarin android xamarin.android</tags>
+  </metadata>
+  <files>
+    <file src="bin\release\NewRelicXamarin.Android.dll" target="lib\MonoAndroid10" />
+  </files>
+</package>
